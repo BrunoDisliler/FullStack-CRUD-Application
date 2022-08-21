@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FullStack-Crud-Application/static/css/main.196321ec.css",
+    "main.js": "/FullStack-Crud-Application/static/js/main.c6bfac2e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/FullStack-Crud-Application/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/FullStack-Crud-Application/index.html",
+    "main.196321ec.css.map": "/FullStack-Crud-Application/static/css/main.196321ec.css.map",
+    "main.c6bfac2e.js.map": "/FullStack-Crud-Application/static/js/main.c6bfac2e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/FullStack-Crud-Application/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196321ec.css",
+    "static/js/main.c6bfac2e.js"
+  ]
+}
